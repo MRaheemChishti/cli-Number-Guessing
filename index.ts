@@ -17,7 +17,7 @@ const answers =  await inquirer.prompt([
     {
         name: "userGuessedNumber",
         type: "number",
-        message: "Please guess a number betweem 1-10: ",
+        message: "Please guess a number betweem 1-10:",
     },
 ]);
 
